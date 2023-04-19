@@ -40,10 +40,11 @@ Developed by: Hariharan.S
 RegisterNumber:212222050016  
 */
 
-## Output:![Screenshot (21)](https://user-images.githubusercontent.com/123146156/232314315-23851c02-bbf5-45b2-a485-ae6cf0d08695.png)
+## Output:![Screenshot (22)](https://user-images.githubusercontent.com/123146156/233018236-9315e094-cdce-45a4-84ee-c060893bc2bd.png)
 
 
-## Truthtable
+## Truthtable![Screenshot (21)](https://user-images.githubusercontent.com/123146156/233018075-4e658a80-14db-430d-af3a-c817c2ef21b9.png)
+
 
 
 
