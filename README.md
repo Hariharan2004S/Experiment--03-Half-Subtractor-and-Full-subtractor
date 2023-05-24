@@ -49,7 +49,7 @@ Developed by: Hariharan.S
 RegisterNumber:212222050016  
 */
 
-## Output:![Screenshot (21)](https://github.com/Hariharan2004S/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/123146156/1bbb2929-8ba2-413d-8865-ad7582307ee7)
+## Output:
 
 
 
@@ -58,7 +58,8 @@ RegisterNumber:212222050016
 
 
 
-##  RTL realization
+##  RTL realization![Screenshot (21)](https://github.com/Hariharan2004S/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/123146156/27eda1e9-1d02-4657-b100-5d3a6db826a8)
+
 
 
 ## Timing diagram ![Screenshot (22)](https://github.com/Hariharan2004S/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/123146156/b8eefa63-38f5-4a71-bc70-eb72fdb1f96f)
