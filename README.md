@@ -32,8 +32,17 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 Write the detailed procedure here 
 
 
-## Program:![Screenshot (20)](https://user-images.githubusercontent.com/123146156/232314265-d252fdf1-a694-4fd3-abec-a559dc43f856.png)
-
+## Program:
+```vhd1
+module subtractor(a,b,c,diff,borrow,diff1,borrow1);
+input a,b,c;
+output diff,borrow,diff1,borrow1;
+assign diff=(a^b);
+assign borrow=(~a&b);
+assign diff1=(a^b^c);
+assign borrow1=(~a&(b^c)|(b&c));
+endmodule
+```
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: Hariharan.S
